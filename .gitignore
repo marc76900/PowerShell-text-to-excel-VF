@@ -128,7 +128,9 @@ Icon
 
 # Exécutables générés
 *.exe
+!example.exe
 Extract-Sections.exe
+extract-sections.exe
 Test-Extraction.exe
 
 # Fichiers de packaging PS2EXE
@@ -137,6 +139,34 @@ Test-Extraction.exe
 
 # Fichiers de signature
 *.ps1xml
+
+# ==============================================================================
+# Fichiers spécifiques Go
+# ==============================================================================
+
+# Binaires compilés
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Fichiers de test
+*.test
+
+# Coverage
+*.out
+coverage.html
+
+# Dépendances vendorisées (si utilisées)
+vendor/
+
+# go.sum (peut être commité, mais souvent ignoré en dev)
+# go.sum
+
+# Fichiers de build Go
+go.work
+go.work.sum
 
 # ==============================================================================
 # Sauvegardes

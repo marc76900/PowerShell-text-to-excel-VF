@@ -1,7 +1,10 @@
 # 📄 PowerShell Text to Excel - Version Finale
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)](https://github.com/PowerShell/PowerShell)
+[![Go](https://img.shields.io/badge/Go-1.21%2B-00ADD8.svg)](https://go.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> **🚀 NOUVEAU** : Une version **Go** est maintenant disponible ! Parfaite pour les environnements verrouillés où l'exécution de scripts PowerShell est bloquée. Voir [README_GO.md](README_GO.md) et [BUILD_GO.md](BUILD_GO.md).
 
 ## 🎯 Description
 
@@ -22,6 +25,29 @@ Idéal pour :
 - ✅ **Récursivité** : parcourt les sous-dossiers si demandé
 - ✅ **Sans dépendances** : aucun module externe requis
 - ✅ **Pas de droits admin** : fonctionne dans un environnement verrouillé
+
+## 🤔 Quelle version choisir ?
+
+### Version PowerShell (`Extract-Sections.ps1`)
+
+**👍 Choisissez PowerShell si** :
+- Vous avez les droits pour exécuter des scripts PowerShell
+- Vous voulez modifier facilement le code
+- Vous préférez un fichier léger (25 Ko)
+
+**⚠️ Problème potentiel** : "l'exécution de scripts est désactivée sur ce système"
+
+### Version Go (`extract-sections.exe`) - **RECOMMANDÉE pour environnements verrouillés**
+
+**👍 Choisissez Go si** :
+- ❌ PowerShell bloque l'exécution de scripts
+- ✅ Vous voulez un exécutable autonome (aucune dépendance)
+- ✅ Vous voulez la meilleure performance (5x plus rapide)
+- ✅ Vous voulez distribuer facilement (un seul .exe)
+
+**📘 Guide complet** : [README_GO.md](README_GO.md) | [BUILD_GO.md](BUILD_GO.md)
+
+---
 
 ## 🚀 Démarrage rapide
 
