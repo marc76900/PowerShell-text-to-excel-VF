@@ -1,0 +1,36 @@
+Client: TechStart SAS
+Objet de la mission: Développement application mobile et API REST
+
+1. Contexte, problematique et enjeux
+TechStart souhaite lancer une application mobile innovante pour le secteur de la santé.
+Le marché est très concurrentiel avec des acteurs établis.
+• Nécessité d'un time-to-market rapide (< 6 mois)
+• Contraintes réglementaires strictes (données de santé)
+• Budget limité en phase de démarrage
+
+2. Valeur ajoutée & différenciation : Notre expertise en healthtech nous permet d'accélérer le développement
+Nous avons déjà livré 12 applications certifiées HDS (Hébergeur Données Santé).
+Utilisation de composants réutilisables et architecture modulaire.
+Réduction estimée de 40% du time-to-market vs développement classique.
+
+3) Contacts : Pierre Lefebvre - CEO - pierre@techstart.fr
+Sophie Dubois - CTO - sophie.dubois@techstart.fr
+
+- Periode : Mars 2025 → Août 2025 (6 mois) avec possibilité de TMA après livraison
+
+• Honoraires: 180 000 € HT en forfait incluant conception, développement, tests et mise en production
+
+Contenu, résultats et livrables :
+→ Application mobile iOS et Android (React Native)
+→ API REST sécurisée (Node.js + PostgreSQL)
+→ Interface d'administration web
+→ Documentation complète (API, architecture, guide utilisateur)
+→ Tests automatisés (couverture > 80%)
+→ Déploiement sur stores (Apple Store + Google Play)
+→ Formation équipe technique (3 jours)
+
+Indicateurs de succès:
+- Application validée par les stores
+- Performance : temps de réponse < 2s
+- Sécurité : aucune vulnérabilité critique
+- Conformité RGPD et HDS

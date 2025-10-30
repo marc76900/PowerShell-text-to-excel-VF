@@ -1,0 +1,23 @@
+Société: DataFlow Analytics
+Mission: Mise en place d'une plateforme de Business Intelligence
+
+Contexte, problématique et enjeux:
+L'entreprise dispose de nombreuses sources de données hétérogènes sans vision consolidée.
+Les décideurs manquent d'outils pour piloter l'activité en temps réel.
+
+Valeur ajoutée et différenciation:
+Solution cloud-native avec technologies modernes (Snowflake, Power BI, dbt).
+Approche data-driven avec accompagnement sur la gouvernance des données.
+
+Contact(s):
+Laurent Petit - CDO - laurent.petit@dataflow.com
+
+Période: Avril 2025 - Septembre 2025
+
+Honoraires: 280 000 € HT
+
+Contenu, résultats et livrables:
+- Architecture data lakehouse
+- Pipelines ETL automatisés
+- Dashboards interactifs
+- Formation équipes data
