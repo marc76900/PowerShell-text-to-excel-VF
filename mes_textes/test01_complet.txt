@@ -1,0 +1,59 @@
+Acme Corporation
+Mission de transformation digitale et modernisation des systèmes d'information
+Audit et refonte de l'architecture IT existante
+
+Contexte, problématique et enjeux:
+L'entreprise Acme Corporation fait face à une infrastructure IT vieillissante qui limite sa capacité d'innovation.
+Les systèmes actuels, développés il y a plus de 15 ans, ne sont plus adaptés aux besoins métiers.
+Le manque d'intégration entre les différents modules entraîne des inefficacités et des risques de sécurité.
+
+Principaux enjeux identifiés:
+- Moderniser l'infrastructure pour supporter la croissance
+- Améliorer la sécurité et la conformité RGPD
+- Réduire les coûts opérationnels de 30%
+- Permettre le travail hybride et mobile
+
+Valeur ajoutée et différenciation:
+Notre approche unique combine expertise technique et compréhension métier approfondie.
+Méthodologie éprouvée sur plus de 50 projets similaires dans le secteur industriel.
+
+Points de différenciation clés:
+- Équipe certifiée (Azure, AWS, TOGAF)
+- Accompagnement change management inclus
+- Garantie de résultat sur les KPIs définis
+- Support 24/7 pendant la phase de transition
+
+Contact(s):
+Jean Dupont - CTO - jean.dupont@acme.com - 06 12 34 56 78
+Marie Martin - Directrice SI - marie.martin@acme.com - 06 98 76 54 32
+Service support : support-it@acme.com
+
+Période:
+Janvier 2025 - Juin 2025 (6 mois)
+Phase 1 : Audit et conception (2 mois)
+Phase 2 : Migration progressive (3 mois)
+Phase 3 : Stabilisation et transfert (1 mois)
+
+Honoraires:
+Budget global : 450 000 € HT
+Répartition :
+- Audit et conception : 120 000 €
+- Réalisation et migration : 250 000 €
+- Support post-migration : 80 000 €
+
+Modalités de paiement : 30% à la commande, 50% jalons intermédiaires, 20% recette finale
+
+Contenu, résultats et livrables:
+Livrables principaux:
+- Rapport d'audit complet (150 pages)
+- Architecture cible détaillée
+- Plan de migration avec roadmap
+- Code source et documentation technique
+- Formation des équipes (5 jours)
+- Procédures opérationnelles
+
+Résultats attendus:
+- Réduction de 40% du temps de réponse applicatif
+- Disponibilité 99.9% garantie
+- Conformité RGPD complète
+- ROI positif sous 18 mois

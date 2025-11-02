@@ -1,0 +1,211 @@
+# PowerShell Text to Excel - .gitignore
+
+# ==============================================================================
+# Fichiers de sortie générés par le script
+# ==============================================================================
+
+# CSV de sortie
+*.csv
+!exemple.csv
+sections.csv
+resultats.csv
+export*.csv
+output*.csv
+test_output.csv
+test_strict.csv
+perf_test.csv
+recurse_output.csv
+mon_export.csv
+
+# Logs
+*.log
+extraction.log
+debug.log
+error.log
+
+# ==============================================================================
+# Fichiers temporaires PowerShell
+# ==============================================================================
+
+# Historique PowerShell
+ConsoleHost_history.txt
+
+# Fichiers de session
+*.psSession
+
+# Modules temporaires
+*.psm1~
+
+# ==============================================================================
+# Dossiers de test temporaires
+# ==============================================================================
+
+test_performance/
+temp_strict_test/
+test_recurse/
+mes_documents/
+temp*/
+
+# ==============================================================================
+# Fichiers système Windows
+# ==============================================================================
+
+# Thumbs.db
+Thumbs.db
+ehthumbs.db
+
+# Desktop.ini
+Desktop.ini
+
+# Corbeille Windows
+$RECYCLE.BIN/
+
+# Fichiers de raccourcis Windows
+*.lnk
+
+# ==============================================================================
+# Fichiers système macOS
+# ==============================================================================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icônes
+Icon
+
+# Fichiers temporaires macOS
+._*
+
+# Dossiers
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ==============================================================================
+# Fichiers système Linux
+# ==============================================================================
+
+# Fichiers temporaires
+*~
+
+# Fichiers Vim
+.*.swp
+.*.swo
+
+# ==============================================================================
+# Environnements de développement
+# ==============================================================================
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# JetBrains (PyCharm, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ==============================================================================
+# Fichiers de build/packaging
+# ==============================================================================
+
+# Exécutables générés
+*.exe
+!example.exe
+Extract-Sections.exe
+extract-sections.exe
+Test-Extraction.exe
+
+# Fichiers de packaging PS2EXE
+*.psc1
+*.psc2
+
+# Fichiers de signature
+*.ps1xml
+
+# ==============================================================================
+# Fichiers spécifiques Go
+# ==============================================================================
+
+# Binaires compilés
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Fichiers de test
+*.test
+
+# Coverage
+*.out
+coverage.html
+
+# Dépendances vendorisées (si utilisées)
+vendor/
+
+# go.sum (peut être commité, mais souvent ignoré en dev)
+# go.sum
+
+# Fichiers de build Go
+go.work
+go.work.sum
+
+# ==============================================================================
+# Sauvegardes
+# ==============================================================================
+
+*.bak
+*.backup
+*_old.*
+*_backup.*
+
+# ==============================================================================
+# Fichiers volumineux ou sensibles
+# ==============================================================================
+
+# Données de production (ne pas commit !)
+donnees_production/
+exports_client/
+
+# Fichiers avec données sensibles
+*_confidential.*
+*_secret.*
+*.credentials
+
+# ==============================================================================
+# Autres
+# ==============================================================================
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Notes personnelles
+TODO.txt
+NOTES.txt
+notes/
+
+# Fichiers de cache
+__pycache__/
+*.pyc
